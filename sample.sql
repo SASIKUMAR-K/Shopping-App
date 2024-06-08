@@ -1215,7 +1215,7 @@ VALUES (
     ), (
         175,
         'HTML & CSS Book',
-        'Joes Company',
+        'Sasi Company',
         'uploads/20220709134226html.jpg',
         5,
         999,
