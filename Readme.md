@@ -34,4 +34,4 @@
 
 ## Output 9
 
-![Output 9](./Output%20Screenshots/9.png)
+![Output 9](Output%20Screenshots/9.png)
